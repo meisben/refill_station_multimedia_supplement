@@ -13,16 +13,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MSc robotics - dissertation multimedia supplement
+title: Prototype refill station - supplementary material
 email: ""
 description: >- # this means to ignore newlines until "baseurl:"
-  UWE/UoB
+  green green technology
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
-repository: "meisben/MSc_robotics_dissertation_multimedia_supplement"
+repository: "meisben/refill_station_multimedia_supplement"
 
 # Build settings
 plugins:
