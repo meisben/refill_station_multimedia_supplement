@@ -20,7 +20,7 @@ Many thanks for trying out the refill station!
 <h2>Resources</h2> 
   <p>Please click on the links below to access them!</p>
 <ul class="list-group">
-  <a href="https://www.w3schools.com/python/" target="_blank" class="list-group-item list-group-item-action">Written instructions</a>
+  <a href="https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiQTJXZ2t4Nnd3dzJjYnU5YkZsVjM5WFJKTVFGcFRKcDA4aVRrN0lxSjVtTWs3QVVlTWluVDYveWFVSmtWbTZncmcweDQyMlVxMDVQalBnVjZJdC9DUjdnREoyQUszaFhiWVdYemN0bi8wSEtDeW92a284VE0vRFUyUjVKZEZSbG1YTFE9IiwiaCI6IlBhc3N3b3JkIGlzIGFscmVhZHkgc2hhcmVkIHdpdGggeW91IHNlcGVyYXRlbHkgKGFuZCBhbHNvIHdyaXR0ZW4gb24gdGhlIHByb3RvdHlwZSByZWZpbGwgc3RhdGlvbikiLCJpIjoicVZNS0ZubHl3MTFWc0tiTiJ9" target="_blank" class="list-group-item list-group-item-action">Written instructions</a>
   <a href="https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiQzNoNjFvV2Vkbm1Pa3JpTEYxcWRmcWNPOS9WWDE5TlZnNEN5NlB1VW9NTXA5Zmdkd0NkL2hoN1NHVTg9IiwiaCI6IlBhc3N3b3JkIGlzIG1hZGUgYXZhaWxhYmxlIHRvIHVzZXJzIG9mIHRoZSByZWZpbGwgc3RhdGlvbiAod3JpdHRlbiBvbiByZWZpbGwgc3RhdGlvbiBhbmQgaW4gb3BlcmF0aW9uIG1hbnVhbCkiLCJpIjoiMUUzV1VBT0pVa3NtME1aVCJ9" target="_blank" class="list-group-item list-group-item-action">Video instructions</a>
   <a href="https://forms.gle/fnGcoFX5Y7wbEVjX7" target="_blank" class="list-group-item list-group-item-action">Feedback form</a>
 </ul>
