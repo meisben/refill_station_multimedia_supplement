@@ -20,7 +20,7 @@ Many thanks for trying out the refill station!
 <h2>Resources</h2> 
   <p>Please click on the links below to access them!</p>
 <ul class="list-group">
-  <a href="https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiK3VtR0dwNGpoS0ljM0prVnZBNnRnWENFR0pCVDh1aVdHT0czazF6WlErTkREWnpTay94VmdpbFdGZGZTT2pLenRVUjREZWRkT3lPQ1ZHMk1HNDFoaVR5cjBWNTlXcXN1aGMrMTR6eCtSVTkybkt3bGx5bGRGVFd2YTN4TE85Wlozblk9IiwiaCI6IlBhc3N3b3JkIGlzIGFscmVhZHkgc2hhcmVkIHdpdGggeW91IHNlcGVyYXRlbHkgKGFuZCBhbHNvIHdyaXR0ZW4gb24gdGhlIHByb3RvdHlwZSByZWZpbGwgc3RhdGlvbikiLCJpIjoic3FJWUNSbE5SUUpjODdpdyJ9" target="_blank" class="list-group-item list-group-item-action">Written instructions</a>
+  <a href="https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiRFBLT3NTaWRoVkRxSmJJUTRQQ0NCZEVHY1l2alExbHJUbGFYRkJhaFh6WlFQQmlBNFdTdEdkTUQ2Tzc5SGQ1K0k3YlhseHlneksxWUk3empqM1gvYXZ0UXNUU0ljRnk4SU9sOXpnb2xld1dlOWpCRDJnS0NSYnlLSS9ueEphRlFpaVE9IiwiaCI6IlBhc3N3b3JkIGlzIGFscmVhZHkgc2hhcmVkIHdpdGggeW91IHNlcGVyYXRlbHkgKGFuZCBhbHNvIHdyaXR0ZW4gb24gdGhlIHByb3RvdHlwZSByZWZpbGwgc3RhdGlvbikiLCJpIjoiUXZiQTg1N0hxWmNINlB1TSJ9" target="_blank" class="list-group-item list-group-item-action">Written instructions</a>
   <a href="https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiQzNoNjFvV2Vkbm1Pa3JpTEYxcWRmcWNPOS9WWDE5TlZnNEN5NlB1VW9NTXA5Zmdkd0NkL2hoN1NHVTg9IiwiaCI6IlBhc3N3b3JkIGlzIG1hZGUgYXZhaWxhYmxlIHRvIHVzZXJzIG9mIHRoZSByZWZpbGwgc3RhdGlvbiAod3JpdHRlbiBvbiByZWZpbGwgc3RhdGlvbiBhbmQgaW4gb3BlcmF0aW9uIG1hbnVhbCkiLCJpIjoiMUUzV1VBT0pVa3NtME1aVCJ9" target="_blank" class="list-group-item list-group-item-action">Video instructions</a>
   <a href="https://forms.gle/fnGcoFX5Y7wbEVjX7" target="_blank" class="list-group-item list-group-item-action">Feedback form</a>
 </ul>
